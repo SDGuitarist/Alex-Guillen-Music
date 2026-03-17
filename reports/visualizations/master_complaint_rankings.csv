@@ -1,0 +1,11 @@
+Rank,Complaint Type,Primary Industries,Volume Signal,Composite Score,Startup Opportunity Score
+1,AI Chatbot Gatekeeping / Defensive AI,"All (esp. Telecom, E-Commerce)",73% of CX leaders cite AI resistance; 45% abandon chatbots,9.5,9.1
+2,Credit Report Errors (CFPB #1),"Financial Services, Credit Bureaus",3.19M CFPB complaints; credit reports = 85% of total,9.2,8.6
+3,Telecom/ISP Billing Fraud,"Telecom/ISP (Comcast, Verizon)",Hundreds of forum threads; bills 5-10x agreed,8.8,8.8
+4,Health Insurance Claim Denials,Health Insurance (UnitedHealthcare),16% in-network denial rate; 90% AI error rate in class action,8.8,8.5
+5,Subscription Cancellation Dark Patterns,"Streaming, SaaS, Fitness, Retail",76% of sub services use dark patterns; FTC rule vacated,8.5,8.3
+6,Multi-Hour Hold Times,"Airlines, Telecom, Government",3-10hr waits; CA legislation pending,7.5,7.5
+7,Airline Service Failures,"Airlines (American, Frontier, United)",9K+ Reddit posts/month; record DOT complaints,8.2,7.8
+8,Mobile Carrier Overcharges,"Telecom (Verizon, T-Mobile)","$1,400 billing nightmares; dozens of FCC complaints",7.3,7.8
+9,Food Delivery Refund Denials,"Food Delivery (Uber Eats, DoorDash)",30/1000 customers request refunds (20x avg),7.0,7.0
+10,Package Delivery Failures,"Logistics (FedEx, Amazon, USPS)",260M packages stolen/year; FedEx suspended guarantees,6.8,6.9
